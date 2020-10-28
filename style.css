@@ -5,7 +5,8 @@
 }
 
 body {
-  background: #F3F3F3;
+  background-image: url(images/fonds.jpeg);
+  background-size: cover;
   font-family: "Roboto", sans-serif;
   text-align: center;
 }
@@ -74,7 +75,7 @@ a.btn-red:active {
 .card {
     padding: 10px;
     margin: 30px;
-    background: white;
+    background: #eae5d6d9;
     border-radius: 5px;
     box-shadow: 2px 2px 20px grey;
 }
